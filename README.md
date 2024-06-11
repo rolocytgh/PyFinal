@@ -6,11 +6,11 @@
 1.輸入一個字串作為密鑰
 2.輸入一個需要加密的字串
 
-#程式碼
+# 程式碼
 ![image](https://github.com/rolocytgh/PyFinal/assets/113405730/f7410321-9580-4aff-9f35-c8888f4ddcc1)
 
 
-#結果
+# 結果
 ![image](https://github.com/rolocytgh/PyFinal/assets/113405730/c1920616-b449-4307-bc3a-6d8fd6c7e79d)
 
 
